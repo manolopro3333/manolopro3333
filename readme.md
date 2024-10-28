@@ -14,8 +14,8 @@
 - I can do a hello world in: Python, Java, Js, c++, html (???), PHP, LUA.
 
 ### Projects:
-</br> <a href="https://i.imgur.com/fPweoJk.png">NexSafio | 50+</a>
-</br> <a href="https://i.imgur.com/E54eY0w.png">DeathLand | 50+ </a>
+</br> <a href="https://i.imgur.com/fPweoJk.png">NexSafio | 50+ streamers</a>
+</br> <a href="https://i.imgur.com/E54eY0w.png">DeathLand | 50+ streamers</a>
 </br><a href="https://i.imgur.com/v6mtpdd.png">LayCraft | 500+ </a> (Maintenance mode)
-</br> <a href="https://imgur.com/Ry0drSw">BROSAFIO 150+ </a>
+</br> <a href="https://imgur.com/Ry0drSw">BROSAFIO 150+ streamers</a>
 </br> <a href="https://imgur.com/Qzh7REP">Saber Showdown | 20k+ </a>
