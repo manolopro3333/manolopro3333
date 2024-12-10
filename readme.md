@@ -3,6 +3,7 @@
 </br>Experienced Community Manager & Administrator
 </br>I worked in various Minecraft server production studios
 </br>Actual focus: Java & (future) c++
+</br>Learning minecraft mods & plugins develop
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/manolopro3333)
@@ -10,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://imgur.com/kPr37VG)
 
 ### Knowledge
-- Programming Languages (basic): Python, Java.
+- Programming Languages (basic): Python, Java (Fabric & Forge).
 - I can do a hello world in: Python, Java, Js, c++, html (???), PHP, LUA.
 
 ### Projects:
