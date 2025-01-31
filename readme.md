@@ -20,5 +20,5 @@
 </br><a href="https://i.imgur.com/v6mtpdd.png">LayCraft | 500+ </a> (Maintenance mode)
 </br> <a href="https://imgur.com/RbgGKb5">BROSAFIO 150+ streamers</a>
 </br> <a href="https://imgur.com/Qzh7REP">Saber Showdown | 20k+ </a>
-</br> <a href="https://imgur.com/a/HTb3ETY">Volty Studio | 1.3k+ </a>
-</br> <a href="https://discord.gg/YumvKaKGyV">AimStudio (CEO) | Working in
+</br> <a href="https://imgur.com/a/6W36Qoa">Volty Studio | 1.3k+ </a>
+</br> <a href="https://discord.gg/NhrUYUDZ8m">AimStudio (CEO) | Working in
