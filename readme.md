@@ -66,8 +66,8 @@
   <a href="https://imgur.com/a/6W36Qoa">
     <img src="https://img.shields.io/badge/Volty%20Studio-1.3k%2B%20Members-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Volty Studio">
   </a>
-  <a href="https://discord.gg/NhrUYUDZ8m">
-    <img src="https://img.shields.io/badge/AimStudio-CEO%20%26%20Developer-6C6C6C?style=for-the-badge&logo=discord&logoColor=white" alt="AimStudio">
+  <a href="https://imgur.com/a/dEX3lqO">
+    <img src="https://img.shields.io/badge/Owleaf%20Studio-1.7k%2B%20Members-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Owleaf Studio">
   </a>
 </p>
 
