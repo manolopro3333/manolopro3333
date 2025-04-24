@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 **Projects**
+### 🚀 **Projects** /Click for proofs./
 <p align="center">
   <a href="https://i.imgur.com/fPweoJk.png">
     <img src="https://img.shields.io/badge/NexSafio-50%2B%20Streamers-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="NexSafio">
