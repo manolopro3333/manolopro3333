@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Volty%20Studio-1.3k%2B%20Members-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Volty Studio">
   </a>
   <a href="https://imgur.com/a/">
-    <img src="https://img.shields.io/badge/Spreen%20Studios-(streamer)k%2B%20Members-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spreen Studios">
+    <img src="https://img.shields.io/badge/Spreen%20Studios-(streamer)-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spreen Studios">
   </a>
   <a href="https://imgur.com/a/dEX3lqO">
     <img src="https://img.shields.io/badge/Owleaf%20Studio-1.7k%2B%20Members-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Owleaf Studio">
